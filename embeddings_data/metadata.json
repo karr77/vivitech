@@ -1,0 +1,7 @@
+{
+  "model_name": "shibing624/text2vec-base-chinese",
+  "vector_dimension": 768,
+  "product_count": 300,
+  "qa_pair_count": 900,
+  "generated_at": "2025-06-14T17:34:21.338506"
+}
